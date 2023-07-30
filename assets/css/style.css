@@ -65,6 +65,7 @@ section {
     font-size: 28px;
     line-height: 32px;
   }
+
   .section-header h2 {
     font-size: 16px;
     letter-spacing: 1px;
@@ -495,6 +496,11 @@ section {
 
 .hero .hero-img {
   text-align: right;
+  width: 400px;
+  height: 400px;
+  margin-left: 100px;
+  border: 2px solid white;
+  border-radius: 50px;
 }
 
 @media (min-width: 1024px) {
@@ -804,9 +810,9 @@ section {
   #aboutimg {
     height: 200px;
     width: 600px;
-    margin-top: 20px; 
+    margin-top: 20px;
     padding: 0px;
-    
+
   }
 
 }
@@ -2460,4 +2466,3 @@ iframe {
     margin-left: 0;
   }
 }
-
