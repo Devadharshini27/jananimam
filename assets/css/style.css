@@ -65,6 +65,14 @@ section {
     font-size: 28px;
     line-height: 32px;
   }
+  .section-header h2 {
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    margin: 0;
+    color: #4154f1;
+    text-transform: uppercase;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -2451,5 +2459,5 @@ iframe {
   .divss1 {
     margin-left: 0;
   }
-
 }
+
